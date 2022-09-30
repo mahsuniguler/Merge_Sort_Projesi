@@ -18,4 +18,6 @@ ______________________
 ### 2) Big-O gösterimini yazınız.
 
 Cevap: O(nlogn)
-______________________
+
+
+## Patika.dev profilime gitmek için [tıklayınız](https://app.patika.dev/mahsuniglr).
