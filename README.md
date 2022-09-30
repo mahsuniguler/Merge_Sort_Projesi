@@ -15,5 +15,5 @@
 ______________________
 ### 2) Big-O gösterimini yazınız.
 
-Cevap: O(n*(logn))
+Cevap: O(nlogn)
 ______________________
